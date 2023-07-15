@@ -1,5 +1,4 @@
 import { Navbar } from './componentes/Navbar';
-import { Movie } from './componentes/Movie';
 import { MovieList } from './componentes/MovieList';
 
 function App() {
